@@ -1,0 +1,8 @@
+.container p {
+  font-family: sans-serif;
+  background-color: #99e6ff;
+}
+.list-group {
+  padding-top: 2px;
+  float: right;
+}
